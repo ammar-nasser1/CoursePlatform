@@ -1,0 +1,11 @@
+.video-player-container .video-controls .progress-bar {
+    background-color: red important;
+    /* Replace with your preferred color */
+}
+
+.react-video-controls .progress-wrap progress {
+    background-color: red !important;
+    color: red !important;
+    /* Replace with your preferred color */
+    height: 20px !important;
+}
